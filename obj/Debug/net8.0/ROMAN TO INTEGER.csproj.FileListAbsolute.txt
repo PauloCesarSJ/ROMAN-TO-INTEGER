@@ -1,0 +1,14 @@
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\bin\Debug\net8.0\ROMAN TO INTEGER.exe
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\bin\Debug\net8.0\ROMAN TO INTEGER.deps.json
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\bin\Debug\net8.0\ROMAN TO INTEGER.runtimeconfig.json
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\bin\Debug\net8.0\ROMAN TO INTEGER.dll
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\bin\Debug\net8.0\ROMAN TO INTEGER.pdb
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\obj\Debug\net8.0\ROMAN TO INTEGER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\obj\Debug\net8.0\ROMAN TO INTEGER.AssemblyInfoInputs.cache
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\obj\Debug\net8.0\ROMAN TO INTEGER.AssemblyInfo.cs
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\obj\Debug\net8.0\ROMAN TO INTEGER.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\obj\Debug\net8.0\ROMAN TO INTEGER.dll
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\obj\Debug\net8.0\refint\ROMAN TO INTEGER.dll
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\obj\Debug\net8.0\ROMAN TO INTEGER.pdb
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\obj\Debug\net8.0\ROMAN TO INTEGER.genruntimeconfig.cache
+C:\Users\paulo\Desktop\programação\Estoque\ROMAN TO INTEGER\obj\Debug\net8.0\ref\ROMAN TO INTEGER.dll

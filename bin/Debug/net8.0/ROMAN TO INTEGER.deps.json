@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ROMAN TO INTEGER/1.0.0": {
+        "runtime": {
+          "ROMAN TO INTEGER.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ROMAN TO INTEGER/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
